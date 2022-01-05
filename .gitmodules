@@ -1,0 +1,6 @@
+[submodule "cr"]
+	path = cr
+	url = https://github.com/e5pe0n/cr.git
+[submodule "cr2"]
+	path = cr2
+	url = https://github.com/e5pe0n/cr2.git
